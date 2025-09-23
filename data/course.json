@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Rhetoric"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ]
+  ],
+  "legacy_uid": "af11cd2d-c4a8-a458-6b4e-394ffc5353ea",
+  "instructors": {
+    "content": [
+      "321876c7-f4e8-cab8-173c-d2af1e28554d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1f977ee8-7736-2403-9018-2c8ef64f3485",
+    "website": "11-225-argumentation-and-communication-fall-2006"
+  },
+  "course_title": "Argumentation and Communication",
+  "course_description": "This Communication and Argumentation seminar is an intensive writing workshop that focuses on argumentation and communication. Students learn to write and present their ideas in cogent, persuasive arguments and other analytical frameworks. Reading and writing assignments and other exercises stress the connections between clear thinking, critical reading, and effective writing.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.225",
+  "course_image_thumbnail": {
+    "content": "7114818c-1e7d-5a56-010f-5fea36d08ae7",
+    "website": "11-225-argumentation-and-communication-fall-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "ff1026ee-aa63-45ce-849b-3906e0306230",
+  "site_short_id": "11.225-fall-2006",
+  "site_url_path": "courses/11-225-argumentation-and-communication-fall-2006",
+  "title": "Course Metadata"
+}
