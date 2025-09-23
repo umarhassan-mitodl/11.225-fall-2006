@@ -21,9 +21,9 @@ Kilment, Stephen A. *Writing for Design Professionals*. New York, NY: W.W. Norto
 
 Kane, Thomas S. *The Oxford Essential Guide to Critical Writing*. New York, NY: Berkeley Publishing Group, 2000. ISBN: 0425176401.
 
-Strunk, William, and E.B. White. [*The Elements of Style*](http://www.bartleby.com/141/). 4th ed. Upper Saddle River, NJ: Pearson, 1999. ISBN: 020530902X.
+Strunk, William, and E.B. White. {{% resource_link "3c8bfd30-7307-44a4-9324-bb9d7179088e" "*The Elements of Style*" %}}. 4th ed. Upper Saddle River, NJ: Pearson, 1999. ISBN: 020530902X.
 
-Perelman, et al. [*The Mayfield Handbook on Technical Writing*](https://www.mit.edu/course/21/21.guide/).
+Perelman, et al. {{% resource_link "dedde4d1-e532-45d6-b16d-d6078c4688e9" "*The Mayfield Handbook on Technical Writing*" %}}.
 
 Turabian, Kate L. "Method of Citation." Section 8 in *A Manual for Writers of Term Papers, Theses, and Dissertations*. 6th ed. Chicago, IL: The University of Chicago Press, 1996. ISBN: 0226816273.
 
@@ -33,24 +33,24 @@ Azar, Betty Schrampfer. *Understanding and Using English Grammar*. 3rd ed. White
 
 The KSG Communications Program. "PAE Policy Analysis Exercise: The Writing Guide 2001-2002." Cambridge, MA: Harvard University.
 
-[The Purdue On-line Writing Lab](http://owl.english.purdue.edu/handouts/index2.html)
+{{% resource_link "05cd6b29-da1f-492d-9ef6-75d9ad4eb19e" "The Purdue On-line Writing Lab" %}}
 
 ## Still Other Resources
 
-Kschischang, Frank R. [*Giving a Talk: Guidelines for the Preparation and Presentation of Technical Seminars*](http://www.comm.toronto.edu/~frank/guide/guide0.html#intro). Department of Electrical and Computer Engineering, University of Toronto.
+Kschischang, Frank R. {{% resource_link "b05c86b3-0526-4cf7-80e2-3c23e00b2f05" "*Giving a Talk: Guidelines for the Preparation and Presentation of Technical Seminars*" %}}. Department of Electrical and Computer Engineering, University of Toronto.
 
 ## Weekly Readings
 
 In order to be able to write arguments, you need to read well-written published arguments. So, each week you should be reading 5 to 10 opinion/editorial pieces. Op-Ed pieces are a good way to learn about how to write concisely and how to create a persuasive argument. Op-Ed pieces can be found in any newspaper, but here are a few Web links to make it really easy.
 
-[*Kennedy School of Government News and Communications: Op-Eds*](http://www.hks.harvard.edu/news-events)
+{{% resource_link "94b8412c-2669-4b22-8cb2-7a50aba94455" "*Kennedy School of Government News and Communications: Op-Eds*" %}}
 
-[*The Boston Globe*](http://www.boston.com/news/globe/)
+{{% resource_link "c10d24e6-6302-46df-ad0c-d86b90ea92da" "*The Boston Globe*" %}}
 
-[*The Wall Street Journal*](http://online.wsj.com/public/us)
+{{% resource_link "1a45e2b2-c242-464b-bc76-0bb5435b0fde" "*The Wall Street Journal*" %}}
 
-[*The New York Times*](http://www.nytimes.com/)
+{{% resource_link "73e93e31-44fa-44ff-9cea-433192039a44" "*The New York Times*" %}}
 
-[*The Washington Post*](http://www.washingtonpost.com/)
+{{% resource_link "0980e759-9bfc-4fed-9b5f-12987160b1e2" "*The Washington Post*" %}}
 
 If you find an op-ed piece that you like, please don't hesitate to bring it into class.
