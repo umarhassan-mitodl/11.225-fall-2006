@@ -8,6 +8,8 @@ description: 'This resource contains dissecting assignments, dissecting memo
 file: /courses/11-225-argumentation-and-communication-fall-2006/e2749f8b8aadea3fc4df72704de9e1e9_lect_3.pdf
 file_size: 283380
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

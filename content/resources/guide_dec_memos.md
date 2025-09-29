@@ -5,6 +5,8 @@ description: This resource contains analyze your audience and define your purpos
 file: /courses/11-225-argumentation-and-communication-fall-2006/9fd176faea61535e638c44088ae03b66_guide_dec_memos.pdf
 file_size: 113389
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

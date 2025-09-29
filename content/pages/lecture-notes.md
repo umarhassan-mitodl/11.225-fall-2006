@@ -2,6 +2,8 @@
 content_type: page
 description: Lecture notes section contains several class sessions as well as a series
   of guidelines on writing intended to aid students in their completion of their assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,4 +35,4 @@ Guidelines for Writing Effective Essays ({{% resource_link a7f55e5e-d2e5-e235-86
 
 Guidelines for Effective Briefings ({{% resource_link d1707ae4-dc92-23e7-98bc-eafd3264cb14 "PDF" %}})
 
-Guidelines for Essay Exams: {{% resource_link "213f6889-84ff-4296-845f-f685e438bc40" "Writing Essay Exams" %}}
+Guidelines for Essay Exams: [Writing Essay Exams](http://owl.english.purdue.edu/handouts/general/gl_essay.html)
