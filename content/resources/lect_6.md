@@ -5,8 +5,6 @@ description: This resources contains defination of argument, bases of an argumen
 file: /courses/11-225-argumentation-and-communication-fall-2006/e280fcda606c0badd67bf52b240a55a1_lect_6.pdf
 file_size: 138665
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

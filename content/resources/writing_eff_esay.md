@@ -4,8 +4,6 @@ description: This resource contains guidelines for writing effective essays.
 file: /courses/11-225-argumentation-and-communication-fall-2006/a7f55e5ed2e5e23586d34587c09e455a_writing_eff_esay.pdf
 file_size: 38793
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

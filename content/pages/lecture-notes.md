@@ -2,8 +2,6 @@
 content_type: page
 description: Lecture notes section contains several class sessions as well as a series
   of guidelines on writing intended to aid students in their completion of their assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
